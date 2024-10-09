@@ -1,4 +1,5 @@
 collections:
   about-hpv-vaccine:
     output: true
-    order: []
+    order:
+      - About HPV.md
