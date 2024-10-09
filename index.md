@@ -45,7 +45,7 @@ sections:
       title: Cervical Cancer Screening
       description: Screen early with Pap Test
       button: Screen now
-      url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/cervical-cancer-screening/
+      url: https://www.singaporecancersociety.org.sg/get-screened/cervical-cancer/pap-test.html
   - infobar:
       title: Got a specific question?
       id: infobar
