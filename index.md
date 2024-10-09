@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Preventing Infections
           description: Learn about Cervical Cancer
-          url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/learn-hpv/
+          url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/preventing-infections/
         - title: About HPV Vaccine
           description: Understand Types of Vaccine
           url: /hpv-vaccine/
