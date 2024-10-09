@@ -4,7 +4,7 @@ permalink: /signs-and-symptoms-of-an-hpv-infection/
 variant: tiptap
 description: ""
 ---
-<h4><strong>What are the signs and symptoms of an HPV Infection?</strong></h4>
+<h4>What are the signs and symptoms of an HPV Infection?</h4>
 <p>Most HPV infections do not have any signs or symptoms. Some HPV infections
 may cause genital warts, but they can also cause oral HPV infections such
 as warts in the mouth or throat or oropharyngeal cancers.</p>
