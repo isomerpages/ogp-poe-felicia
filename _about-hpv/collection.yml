@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About HPV.md
-      - About HPV and Cervical Cancer.md
       - Risk Factors for Cervical Cancer.md
