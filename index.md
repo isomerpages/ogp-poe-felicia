@@ -24,8 +24,8 @@ sections:
           description: Key Highlight description
           url: ""
   - infobar:
-      title: Subsidies and Medisave
-      description: Find out about your eligibility
+      title: Cost, Subsidies and MediSave Use
+      description: Find out your rates
       button: Find out more
       url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/subsidies-and-medisave-use/
   - infobar:
@@ -37,7 +37,6 @@ sections:
       url: https://book.health.gov.sg/hpv
   - infobar:
       title: Track your Vaccination Records
-      subtitle: Add informational text
       id: infobar
       description: Check if you completed required doses under 'Immunisation'
       button: Track past records
