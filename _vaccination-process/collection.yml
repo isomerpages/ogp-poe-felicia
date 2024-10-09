@@ -2,8 +2,8 @@ collections:
   vaccination-process:
     output: true
     order:
-      - Understanding Vaccine Types/Tracking Dosage Records.md
-      - Understanding Vaccine Types/Cost and Subsidies.md
       - Understanding Vaccine Types/.keep
       - Understanding Vaccine Types/Type of Vaccine.md
       - Understanding Vaccine Types/Number of Dosage Required.md
+      - Understanding Vaccine Types/Cost and Subsidies.md
+      - Understanding Vaccine Types/Tracking Dosage Records.md
