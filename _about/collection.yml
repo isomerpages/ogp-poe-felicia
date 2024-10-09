@@ -1,5 +1,5 @@
 collections:
-  about-h-p-v:
+  about:
     output: true
     order:
       - About HPV.md
