@@ -3,7 +3,7 @@ url: https://hpv.gov.sg
 favicon: /images/moh_logo_transparent9c6ae20a828d48bd895da2eb07ac0549_tmb_small.png
 colors:
   primary-color: "#2e6ee8"
-  secondary-color: "#0057c3"
+  secondary-color: "#0d30a5"
   media-colors:
     - title: media-color-one
       color: "#49759a"
