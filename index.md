@@ -14,12 +14,15 @@ sections:
       button: Book Vaccination
       url: /book-vaccination/
       key_highlights:
-        - title: Prevent Infections
-          description: Learn about HPV Vaccine
-          url: https://www.healthhub.sg/a-z/medications/human-papillomavirus-hpv-vaccine#1
-        - title: About HPV Vaccine
+        - title: Why HPV Vaccine
           description: Find more information
           url: https://www.healthhub.sg/a-z/medications/human-papillomavirus-hpv-vaccine#1
+        - title: Getting Vaccinated
+          description: Overview
+          url: /overview/
+        - title: Locations
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Subsidies and Medisave
       description: Subsidies available and Medisave Usage
