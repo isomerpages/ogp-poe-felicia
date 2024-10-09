@@ -2,6 +2,7 @@ collections:
   vaccination-process:
     output: true
     order:
+      - Appointment Booking.md
       - Understanding HPV Vaccine/.keep
       - Understanding HPV Vaccine/Type of Vaccines Available.md
       - Understanding HPV Vaccine/Number of Doses Required.md
