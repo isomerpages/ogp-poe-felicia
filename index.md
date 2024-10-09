@@ -15,7 +15,7 @@ sections:
       url: https://book.health.gov.sg/hpv
       key_highlights:
         - title: About HPV
-          description: Learn More
+          description: Learn to protect yourself
           url: /about-hpv/
         - title: Vaccine Types Available
           description: Understand more
@@ -47,9 +47,9 @@ sections:
       button: Screen now
       url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/cervical-cancer-screening/
   - infobar:
-      title: More questions?
+      title: Got a specific question?
       id: infobar
-      description: Check out the full list of Frequently Asked Questions
+      description: Check out the compiled list of Frequently Asked Questions
       button: Read FAQ
       url: https://www.healthhub.sg/a-z/diseases-and-conditions/faqs-on-hpv-and-hpv-immunisation#1
 ---
