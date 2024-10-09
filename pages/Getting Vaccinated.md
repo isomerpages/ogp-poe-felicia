@@ -4,7 +4,7 @@ permalink: /getting-vaccinated/
 variant: tiptap
 description: ""
 ---
-<p><strong>Understanding HPV Vaccine Dosages</strong>
+<p><strong>Understanding HPV Vaccination and Dosages</strong>
 <br>It is recommended that HPV vaccination be completed as early as possible
 between the ages of 9 – 26 years old.</p>
 <p>For females aged 9 – 14 years at the time of the first dose, a total of
@@ -14,7 +14,6 @@ the first dose.</p>
 of 3 doses are recommended. The second dose may be given between 1 to 2.5
 months after the first dose, followed by the third dose between 5 to 12
 months after the first dose.</p>
-<p></p>
 <p><strong>Choosing type of HPV Vaccine</strong>
 </p>
 <p>HPV2 (Cervarix) provides protection against HPV types 16 and 18, which
@@ -28,7 +27,6 @@ to change to the other type of HPV vaccine for the second dose, it is generally
 fine to do so.</p>
 <p>Please confirm with your doctor on the type of HPV vaccination that you
 wish to receive prior when making the appointment.</p>
-<p></p>
 <p><strong>HPV Vaccination provided in Secondary Schools</strong>
 </p>
 <p>Females attending MOE-registered secondary schools, Special Education
