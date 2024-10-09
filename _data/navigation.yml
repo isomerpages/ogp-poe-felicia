@@ -2,7 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Hpv
     collection: about-hpv
-  - title: Vaccination Overview
-    url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/vaccination-overview/
-  - title: FAQ
-    url: /faq/
+  - title: Vaccination Process
+    collection: vaccination-process
