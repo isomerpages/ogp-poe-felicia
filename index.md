@@ -26,18 +26,17 @@ sections:
       button: Read more
       url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/subsidies-and-medisave-use/
   - infobar:
-      title: Booking your appointment
-      subtitle: Females aged 18 to 26 year old
+      title: Females aged 18 to 26 year old
       id: infobar
       description: Book via Health Appointment System
       button: Book Appointment
       url: https://book.health.gov.sg/hpv
   - infobar:
-      title: Children Vaccination
-      subtitle: FEMALES AGED 9 TO 17 YEAR OLD
+      title: Females aged 9 to 17 year old
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: School-based HPV Vaccination Programme
+      button: Find out More
+      url: /find-out-more/
   - infobar:
       title: Track your Vaccination Records
       id: infobar
