@@ -25,7 +25,7 @@ sections:
           url: ""
   - infobar:
       title: Subsidies and Medisave
-      description: Subsidies available and Medisave Usage
+      description: Find out about your eligibility
       button: Find out more
       url: /subsidies-medisave/
   - infobar:
