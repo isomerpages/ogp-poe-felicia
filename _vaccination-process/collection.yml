@@ -1,4 +1,5 @@
 collections:
   vaccination-process:
     output: true
-    order: []
+    order:
+      - Vaccination Overview.md
