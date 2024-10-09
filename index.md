@@ -51,5 +51,5 @@ sections:
       id: infobar
       description: Check out the full list of Frequently Asked Questions
       button: Read FAQ
-      url: /faq/
+      url: https://www.healthhub.sg/a-z/diseases-and-conditions/faqs-on-hpv-and-hpv-immunisation#1
 ---
