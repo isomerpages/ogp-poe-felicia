@@ -1,15 +1,8 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
+  - title: About HPV Infection
     url: /example-page/
-  - title: Example Folder
+  - title: About the HPV Vaccine
     collection: example-folder
+  - title: FAQ
+    url: /faq/
