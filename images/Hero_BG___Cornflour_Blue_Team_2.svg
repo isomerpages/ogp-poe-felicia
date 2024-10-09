@@ -1,0 +1,26 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2000 1000" height="1000px" width="2000px">
+    <title>Hero BG - Cornflour Blue Team</title>
+    <defs>
+        <linearGradient id="linearGradient-1" y2="37.5%" x2="80.0375%" y1="62.5%" x1="19.4742187%">
+            <stop offset="0%" stop-color="#3895B6"></stop>
+            <stop offset="100%" stop-color="#4AC7F2"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-2" y2="81.5634858%" x2="30.4294273%" y1="19.7825127%" x1="70.4344524%">
+            <stop offset="0%" stop-color="#FFFFFF"></stop>
+            <stop offset="100%" stop-opacity="0.0607244318" stop-color="#FFFFFF"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-3" y2="82.0870536%" x2="50%" y1="0%" x1="50%">
+            <stop offset="0%" stop-opacity="0" stop-color="#4AC7F2"></stop>
+            <stop offset="100%" stop-color="#4AC7F2"></stop>
+        </linearGradient>
+    </defs>
+    <g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none" id="Hero-BG---Cornflour-Blue-Team">
+        <g transform="translate(0, -209.5)" id="Group">
+            <rect height="1000" width="2000" y="209.5" x="0" fill="url(#linearGradient-1)" id="Rectangle"></rect>
+            <path opacity="0.400181362" fill-rule="nonzero" fill="url(#linearGradient-2)" id="Path" d="M1339.45579,1.8429878 C981.662956,1.8429878 805.713688,298.045636 664.602375,536.29628 C518.476508,782.880641 416.513907,932.493871 235.506098,932.493871 L235.506098,1209 C593.298934,1209 769.248202,912.800867 910.359515,674.547147 C1056.48538,427.96718 1158.44798,278.349556 1339.45579,278.349556 L1339.45579,1.8429878 Z"></path>
+            <path opacity="0.0973539807" fill-rule="nonzero" fill="#FFFFFF" id="Path" d="M742.327744,269.699744 L570.928601,0 L235.506098,0 L574.792106,534.466463 C582.167889,522.330809 589.499768,509.81234 597.226779,496.915457 C639.418013,425.223571 686.614242,345.944041 742.327744,269.699744 Z"></path>
+            <path opacity="0.0973539807" fill-rule="nonzero" fill="#FFFFFF" id="Path" d="M834.477134,938.928302 L1005.87628,1209 L1341.29878,1209 L1001.61764,674.533537 C994.285761,686.656335 986.909979,699.15701 979.182968,712.413437 C936.991734,783.625542 889.795505,863.168501 834.477134,939.306179 L834.477134,938.928302 Z"></path>
+        </g>
+        <rect height="711" width="2201" y="-1.34375" x="-83.8125" transform="translate(1016.6875, 354.1562) rotate(-180) translate(-1016.6875, -354.1562)" fill="url(#linearGradient-3)" id="Rectangle"></rect>
+    </g>
+</svg>
