@@ -15,7 +15,7 @@ sections:
       url: /book-vaccination/
       key_highlights:
         - title: Preventing Infections
-          description: Learn about Cervical Cancer
+          description: Learn about HPV Vaccine
           url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/preventing-infections/
         - title: About HPV Vaccine
           description: Understand Types of Vaccine
