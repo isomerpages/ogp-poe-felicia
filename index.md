@@ -36,12 +36,12 @@ sections:
       button: Book Appointment
       url: https://book.health.gov.sg/hpv
   - infobar:
-      title: Track your Vaccination Doses
+      title: Track your Vaccination Records
       subtitle: Add informational text
       id: infobar
       description: Check if you have completed your required doses
       button: Track past records
-      url: /track-doses/
+      url: https://www.healthhub.sg/
   - infobar:
       title: Have a specific question?
       id: infobar
