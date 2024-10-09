@@ -47,7 +47,7 @@ sections:
       button: Screen now
       url: https://www.singaporecancersociety.org.sg/get-screened/cervical-cancer/pap-test.html
   - infobar:
-      title: Got a specific question?
+      title: Got a specific Question?
       id: infobar
       description: Check out the compiled list of Frequently Asked Questions
       button: Read FAQ
