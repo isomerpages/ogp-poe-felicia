@@ -2,7 +2,7 @@ collections:
   vaccination-process:
     output: true
     order:
-      - Understanding Vaccine Types/Number of Dosage.md
-      - Understanding Vaccine Types/Type of Vaccine.md
       - Understanding Vaccine Types/.keep
+      - Understanding Vaccine Types/Type of Vaccine.md
+      - Understanding Vaccine Types/Number of Dosage.md
       - Vaccination Overview.md
