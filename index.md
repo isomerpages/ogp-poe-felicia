@@ -33,6 +33,12 @@ sections:
       button: Book Appointment
       url: https://book.health.gov.sg/hpv
   - infobar:
+      title: Children Vaccination
+      subtitle: FEMALES AGED 9 TO 17 YEAR OLD
+      id: infobar
+      description: Infobar description
+      button: Button Text
+  - infobar:
       title: Track your Vaccination Records
       id: infobar
       description: Check if you completed required doses under 'Immunisation'
