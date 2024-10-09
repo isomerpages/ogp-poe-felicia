@@ -4,29 +4,45 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: HPV Vaccination
+      subtitle: Human Papillomavirus Vaccination / 人乳头瘤病疫苗/ Jangkitan papilomavirus
+        manusia/ மனித பாப்பிலோமாடோசிஸ் தடுப்பூசி
+      background: /images/hero-banner.png
+      button: Book Vaccination
+      url: /book-vaccination/
+      key_highlights:
+        - title: About HPV Infection
+          description: Learn about Cervical Cancer
+          url: https://google.com
+        - title: About the HPV Vaccine
+          description: Understand Types of Vaccine
+          url: /hpv-vaccine/
+  - infobar:
+      title: Subsidies and Medisave
+      description: Subsidies available and Medisave Usage
+      button: Find out more
+      url: /subsidies-medisave/
+  - infobar:
+      title: Booking your appointment
+      subtitle: Females aged 18 to 26 year old
+      id: infobar
+      description: Book via Health Appointment System
+      button: Book Appointment
+      url: /book-appointment/
+  - infobar:
+      title: Track your Vaccination Doses
+      subtitle: Add informational text
+      id: infobar
+      description: Check if you have completed your required doses
+      button: Track past records
+      url: /track-doses/
+  - infobar:
+      title: Have a specific question?
+      id: infobar
+      description: Check out the full list of Frequently Asked Questions
+      button: Read FAQ
+      url: /faq/
 ---
-
