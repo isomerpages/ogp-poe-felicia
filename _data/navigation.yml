@@ -1,6 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About H P V
-    collection: about-h-p-v
+  - title: About
+    collection: about
   - title: Vaccination Process
     collection: vaccination-process
