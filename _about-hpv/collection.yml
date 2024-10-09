@@ -2,9 +2,9 @@ collections:
   about-hpv:
     output: true
     order:
-      - Protecting Yourself.md
-      - Cervical Cancer Screening.md
-      - Treatment.md
-      - Signs and Symptoms of an HPV Infection.md
       - About HPV.md
       - HPV and Cervical Cancer.md
+      - Signs and Symptoms of an HPV Infection.md
+      - Cervical Cancer Screening.md
+      - Treatment.md
+      - Protecting Yourself.md
