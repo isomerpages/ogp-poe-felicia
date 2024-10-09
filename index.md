@@ -22,7 +22,7 @@ sections:
           url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/choosing-your-type-of-vaccine/
         - title: Cost and Subsidies
           description: Find out your benefits
-          url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/cost-and-subsidies/
+          url: /cost-and-subsidies/
   - infobar:
       title: Females aged 9 to 17 year old
       id: infobar
