@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  prevent-infections:
     output: true
     order:
       - folder-page.md
