@@ -12,7 +12,7 @@ sections:
         manusia/ மனித பாப்பிலோமாடோசிஸ் தடுப்பூசி
       background: /images/hero-banner.png
       button: Book Vaccination
-      url: /book-vaccination/
+      url: https://book.health.gov.sg/hpv
       key_highlights:
         - title: Why HPV Vaccine
           description: Find more information
@@ -34,7 +34,7 @@ sections:
       id: infobar
       description: Book via Health Appointment System
       button: Book Appointment
-      url: /book-appointment/
+      url: https://book.health.gov.sg/hpv
   - infobar:
       title: Track your Vaccination Doses
       subtitle: Add informational text
