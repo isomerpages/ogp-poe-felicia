@@ -2,5 +2,6 @@ collections:
   vaccination-process:
     output: true
     order:
+      - Understanding Vaccine Types/Choosing your Type of Vaccine.md
       - Understanding Vaccine Types/.keep
       - Vaccination Overview.md
