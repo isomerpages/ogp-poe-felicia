@@ -1,8 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Prevent HPV Infection
-    url: /example-page/
-  - title: Prevent Infections
-    collection: prevent-infections
+  - title: About HPV Vaccine
+    collection: about-hpv-vaccine
   - title: FAQ
     url: /faq/
