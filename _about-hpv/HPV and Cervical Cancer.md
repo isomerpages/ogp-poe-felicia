@@ -4,7 +4,7 @@ permalink: /hpv-and-cervical-cancer/
 variant: tiptap
 description: ""
 ---
-<h4><strong>How is HPV related to Cervical Cancer?</strong></h4>
+<h4>How is HPV related to Cervical Cancer?</h4>
 <p>Certain types of HPV can infect the cervix (the lower part of the womb),
 vagina and vulva. In most cases, the body's immune system can fight off
 the infection and clear the virus.</p>
@@ -14,7 +14,7 @@ This usually takes years to develop but is one of the most significant
 impacts of being infected with HPV.</p>
 <p>Specifically, HPV subtypes 16 and 18 account for about 70 per cent of
 cervical cancer cases.</p>
-<h4><strong>What are the risk factors for Cervical Cancer?</strong></h4>
+<h4>What are the risk factors for Cervical Cancer?</h4>
 <p>Risk factors for the development of cervical cancer include the following:</p>
 <ul data-tight="true" class="tight">
 <li>
