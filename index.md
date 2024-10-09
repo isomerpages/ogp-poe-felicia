@@ -17,14 +17,12 @@ sections:
         - title: About HPV
           description: Learn More
           url: /about-hpv/
-        - title: Vaccination Overview
-          description: Your Next Steps
-          url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/vaccination-overview/
-  - infobar:
-      title: Cost, Subsidies and MediSave Use
-      description: Find out your rates
-      button: Read more
-      url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/subsidies-and-medisave-use/
+        - title: Vaccine Types Available
+          description: Understand more
+          url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/choosing-your-type-of-vaccine/
+        - title: Cost and Subsidies
+          description: Find out your benefits
+          url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/cost-and-subsidies/
   - infobar:
       title: Females aged 9 to 17 year old
       id: infobar
@@ -43,6 +41,11 @@ sections:
       description: Check if you completed required doses under 'Immunisation'
       button: Track past records
       url: https://www.healthhub.sg/
+  - infobar:
+      title: Cervical Cancer Screening
+      description: Screen early with Pap Test
+      button: Screen now
+      url: https://www.singaporecancersociety.org.sg/get-screened/cervical-cancer/pap-test.html
   - infobar:
       title: Have a specific question?
       id: infobar
