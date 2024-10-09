@@ -19,7 +19,7 @@ sections:
           url: https://www.healthhub.sg/a-z/medications/human-papillomavirus-hpv-vaccine#1
         - title: Getting Vaccinated
           description: Overview
-          url: /overview/
+          url: /getting-vaccinated/
         - title: Locations
           description: Key Highlight description
           url: ""
