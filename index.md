@@ -17,9 +17,9 @@ sections:
         - title: About HPV
           description: Learn More
           url: /about-hpv/
-        - title: Your next steps
-          description: Getting Vaccinated
-          url: /getting-vaccinated/
+        - title: Vaccination Overview
+          description: Your Next Steps
+          url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/vaccination-overview/
   - infobar:
       title: Cost, Subsidies and MediSave Use
       description: Find out your rates
