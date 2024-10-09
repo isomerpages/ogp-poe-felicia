@@ -47,7 +47,7 @@ sections:
       button: Screen now
       url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/cervical-cancer-screening/
   - infobar:
-      title: Have a specific question?
+      title: More questions?
       id: infobar
       description: Check out the full list of Frequently Asked Questions
       button: Read FAQ
