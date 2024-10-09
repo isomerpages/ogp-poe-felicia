@@ -29,7 +29,7 @@ and are shown in the table below.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Vaccination schedule</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,6 +37,15 @@ and are shown in the table below.</p>
 </p>
 <p>Two doses, 5 to 13 months apart</p>
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Females and males aged 9 to 14</u>
+</p>
+<p>Two doses, between 5 to 13 months apart</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><u>Females aged 15 to 25</u>
 </p>
 <p>Three doses:</p>
@@ -44,10 +53,6 @@ and are shown in the table below.</p>
 <p>Third dose to be taken 5 to 12 months after the first dose</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Females and males aged 9 to 14</u>
-</p>
-<p>Two doses, between 5 to 13 months apart</p>
-<p>&nbsp;</p>
 <p><u>Females and males aged 15 to 45</u>
 </p>
 <p>Three doses:</p>
