@@ -27,7 +27,7 @@ sections:
       title: Subsidies and Medisave
       description: Find out about your eligibility
       button: Find out more
-      url: /subsidies-medisave/
+      url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/subsidies-and-medisave-use/
   - infobar:
       title: Booking your appointment
       subtitle: Females aged 18 to 26 year old
