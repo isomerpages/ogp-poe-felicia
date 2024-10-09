@@ -2,8 +2,8 @@ collections:
   vaccination-process:
     output: true
     order:
-      - Understanding Vaccine Types/.keep
-      - Understanding Vaccine Types/Type of Vaccine.md
-      - Understanding Vaccine Types/Number of Dosage Required.md
+      - Understanding HPV Vaccine/.keep
+      - Understanding HPV Vaccine/Type of Vaccine.md
+      - Understanding HPV Vaccine/Number of Dosage Required.md
       - Cost and Subsidies.md
       - Tracking Dosage Records.md
