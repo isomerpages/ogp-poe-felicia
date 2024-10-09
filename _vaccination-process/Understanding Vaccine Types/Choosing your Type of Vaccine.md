@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Understanding Vaccine Types
 ---
-<h4>Choosing your Type of Vaccine</h4>
+<h4>Type of Vaccine</h4>
 <p>The vaccines approved for use in Singapore are Cervarix and Gardasil 9.
 Details of the vaccinations are shown in the table below.</p>
 <table style="minWidth: 75px">
