@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4>Getting a Cervical Cancer Screening</h4>
-<p>Females can get <a href="https://www.healthhub.sg/a-z/costs-and-financing/cervical-cancer-screening-subsidies-in-singapore" rel="noopener noreferrer nofollow" target="_blank">screened</a> at
+<p>Females can get <a href="https://www.singaporecancersociety.org.sg/get-screened/cervical-cancer/pap-test.html" rel="noopener noreferrer nofollow" target="_blank">screened</a> at
 their family doctor's clinic, selected Screen for Life (SFL) CHAS GPs or
 at a polyclinic. Do call your clinic and check if they offer cervical cancer
 screening services.</p>
