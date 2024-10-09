@@ -15,10 +15,10 @@ sections:
       url: https://book.health.gov.sg/hpv
       key_highlights:
         - title: About HPV Vaccine
-          description: Find more information
-          url: https://www.healthhub.sg/a-z/medications/human-papillomavirus-hpv-vaccine#1
+          description: Important information
+          url: /about-hpv-vaccine/
         - title: Your next steps
-          description: Overview
+          description: Getting Vaccinated
           url: /getting-vaccinated/
   - infobar:
       title: Cost, Subsidies and MediSave Use
