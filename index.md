@@ -39,7 +39,7 @@ sections:
       title: Track your Vaccination Records
       subtitle: Add informational text
       id: infobar
-      description: Check if you have completed your required doses
+      description: Check if you completed required doses under 'Immunisation'
       button: Track past records
       url: https://www.healthhub.sg/
   - infobar:
