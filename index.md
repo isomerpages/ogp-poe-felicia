@@ -28,7 +28,7 @@ sections:
       id: infobar
       description: Understand School-based HPV Vaccination Programme
       button: Find out More
-      url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/school-based-hpv-vaccination/
+      url: /school-based-hpv-vaccination/
   - infobar:
       title: Females aged 18 to 26 year old
       id: infobar
