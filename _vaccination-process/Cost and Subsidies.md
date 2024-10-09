@@ -4,7 +4,7 @@ permalink: /cost-and-subsidies/
 variant: tiptap
 description: ""
 ---
-<h4>Cost and Subsidies</h4>
+<h4>Cost, Subsidies and Use of Medisave</h4>
 <p>Female Singapore Citizens (SCs) and Permanent Residents (PRs) who fall
 within the recommended age group for HPV vaccination (i.e. from 18th birthday
 to before 27th birthday) will be able to enjoy subsidies and use MediSave
