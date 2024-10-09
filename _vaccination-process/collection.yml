@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Understanding HPV Vaccine/.keep
-      - Understanding HPV Vaccine/Type of Vaccine.md
+      - Understanding HPV Vaccine/Type of Vaccines Available.md
       - Understanding HPV Vaccine/Number of Dosage Required.md
       - Cost and Subsidies.md
       - Tracking Dosage Records.md
