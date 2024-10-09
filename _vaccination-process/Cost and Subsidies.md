@@ -92,4 +92,3 @@ MediSave can be used to offset the remaining co-payment, if any. Individuals
 are advised to contact their preferred healthcare provider directly for
 their eligibility for subsidies, the costs of vaccinations, and the use
 of MediSave.</p>
-<p></p>
