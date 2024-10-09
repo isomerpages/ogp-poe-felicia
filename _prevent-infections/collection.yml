@@ -2,6 +2,6 @@ collections:
   prevent-infections:
     output: true
     order:
-      - Types of HPV Vaccines in Singapore.md
       - About HPV and its link to Cervical Cancer.md
       - About the HPV Vaccine.md
+      - Types of HPV Vaccines in Singapore.md
