@@ -14,9 +14,9 @@ sections:
       button: Book Vaccination
       url: /book-vaccination/
       key_highlights:
-        - title: Preventing Infections
+        - title: Prevent Infections
           description: Learn about HPV Vaccine
-          url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/preventing-infections/
+          url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/prevent-infections/
         - title: About HPV Vaccine
           description: Understand Types of Vaccine
           url: /hpv-vaccine/
