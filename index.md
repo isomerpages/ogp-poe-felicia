@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Prevent Infections
           description: Learn about HPV Vaccine
-          url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/prevent-infections/
+          url: https://www.healthhub.sg/a-z/medications/human-papillomavirus-hpv-vaccine#1
         - title: About HPV Vaccine
           description: Understand Types of Vaccine
           url: /hpv-vaccine/
