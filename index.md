@@ -10,7 +10,7 @@ sections:
       title: HPV Vaccination
       subtitle: Human Papillomavirus Vaccination / 人乳头瘤病疫苗/ Jangkitan papilomavirus
         manusia/ மனித பாப்பிலோமாடோசிஸ் தடுப்பூசி
-      background: /images/hero-banner.png
+      background: /images/istockphoto_958971100_612x612.jpg
       button: Book Vaccination
       url: https://book.health.gov.sg/hpv
       key_highlights:
