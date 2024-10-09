@@ -2,6 +2,7 @@ collections:
   about-hpv:
     output: true
     order:
+      - Treatment.md
       - Signs and Symptoms of an HPV Infection.md
       - About HPV.md
       - HPV and Cervical Cancer.md
