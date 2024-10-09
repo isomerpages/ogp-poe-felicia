@@ -2,5 +2,5 @@ collections:
   about-hpv:
     output: true
     order:
-      - HPV and Cervical Cancer.md
       - About HPV.md
+      - HPV and Cervical Cancer.md
