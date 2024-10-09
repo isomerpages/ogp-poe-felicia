@@ -2,4 +2,5 @@ collections:
   about-hpv-vaccine:
     output: true
     order:
+      - About HPV and Cervical Cancer/About HPV.md
       - About HPV and Cervical Cancer/.keep
