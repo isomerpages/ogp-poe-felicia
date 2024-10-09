@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Understanding HPV Vaccine
 ---
 <h4>Number of Doses Required</h4>
-<p>Details of the number of dosages required depends on your vaccine type,
+<p>Details of the number of doses required depends on your vaccine type,
 and are shown in the table below.</p>
 <table style="minWidth: 75px">
 <colgroup>
