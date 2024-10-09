@@ -18,8 +18,8 @@ sections:
           description: Learn about HPV Vaccine
           url: https://www.healthhub.sg/a-z/medications/human-papillomavirus-hpv-vaccine#1
         - title: About HPV Vaccine
-          description: Understand Types of Vaccine
-          url: /hpv-vaccine/
+          description: Find more information
+          url: https://www.healthhub.sg/a-z/medications/human-papillomavirus-hpv-vaccine#1
   - infobar:
       title: Subsidies and Medisave
       description: Subsidies available and Medisave Usage
