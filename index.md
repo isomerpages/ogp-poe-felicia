@@ -19,7 +19,7 @@ sections:
           url: /about-hpv/
         - title: Vaccine Types Available
           description: Understand more
-          url: https://master.d2oqkxb9pjtq9t.amplifyapp.com/choosing-your-type-of-vaccine/
+          url: /types-of-vaccines-available/
         - title: Cost and Subsidies
           description: Find out your benefits
           url: /cost-and-subsidies/
