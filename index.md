@@ -15,7 +15,7 @@ sections:
       url: https://book.health.gov.sg/hpv
       key_highlights:
         - title: About HPV Vaccine
-          description: Important information
+          description: For more Information
           url: /about-hpv-vaccine/
         - title: Your next steps
           description: Getting Vaccinated
