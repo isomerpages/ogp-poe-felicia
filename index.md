@@ -14,10 +14,10 @@ sections:
       button: Book Vaccination
       url: /book-vaccination/
       key_highlights:
-        - title: About HPV Infection
+        - title: Preventing Infections
           description: Learn about Cervical Cancer
           url: https://google.com
-        - title: About the HPV Vaccine
+        - title: About HPV Vaccine
           description: Understand Types of Vaccine
           url: /hpv-vaccine/
   - infobar:
