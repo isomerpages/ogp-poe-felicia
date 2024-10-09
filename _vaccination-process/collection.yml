@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Understanding Vaccine Types/.keep
-      - Choosing your Type of Vaccine.md
       - Vaccination Overview.md
